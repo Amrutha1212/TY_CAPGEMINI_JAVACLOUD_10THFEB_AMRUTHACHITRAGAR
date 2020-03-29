@@ -1,0 +1,1955 @@
+[2020-03-11 10:48:52,015][main] INFO  com.tyss.cg.lps.UserChoice  - **********************Welcome to Loan Application Management System********************
+[2020-03-11 22:42:27,799][main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[2020-03-11 22:42:27,801][main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[2020-03-11 22:42:27,801][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[2020-03-11 22:42:41,451][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[2020-03-11 22:43:33,980][main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[2020-03-11 22:43:33,983][main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[2020-03-11 22:43:33,983][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[2020-03-11 22:43:42,728][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[2020-03-11 22:44:28,821][main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[2020-03-11 22:44:28,823][main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[2020-03-11 22:44:28,824][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[2020-03-11 22:44:36,297][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[2020-03-11 22:57:47,540][main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[2020-03-11 22:57:47,542][main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[2020-03-11 22:57:47,542][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[2020-03-11 22:57:52,298][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[2020-03-11 22:57:59,782][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[2020-03-11 22:57:59,784][main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[2020-03-11 22:57:59,784][main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[2020-03-11 22:57:59,784][main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[2020-03-11 22:57:59,784][main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[2020-03-11 22:57:59,784][main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[2020-03-11 22:58:11,603][main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[2020-03-11 22:58:27,472][main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[2020-03-11 22:58:27,474][main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[2020-03-11 22:58:27,475][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[2020-03-11 22:58:31,763][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[2020-03-11 22:58:38,968][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[2020-03-11 22:58:38,970][main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[2020-03-11 22:58:38,970][main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[2020-03-11 22:58:38,970][main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[2020-03-11 22:58:38,971][main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[2020-03-11 22:58:38,971][main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[2020-03-11 22:58:41,716][main] INFO  com.tyss.capgemini.lps.UserChoice  - LOGGED OUT
+[2020-03-11 22:58:56,054][main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[2020-03-11 22:58:56,057][main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[2020-03-11 22:58:56,057][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[2020-03-11 22:59:12,576][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[2020-03-11 22:59:21,292][main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[2020-03-11 22:59:21,294][main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[2020-03-11 22:59:21,294][main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[2020-03-11 22:59:21,294][main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[2020-03-11 22:59:21,294][main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[2020-03-11 22:59:21,294][main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[2020-03-11 22:59:24,277][main] INFO  com.tyss.capgemini.lps.UserChoice  - Invalid Choice
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - AdminOption2.adminOption2()
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - cvgty
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - cvgty
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - cvgty
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - enter your choice
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - your loan details are as follows
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Successful
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  -  your client manager info
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Can not access because you are not an admin
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  -  your client manager info
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Enter 1 to add clients
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Enter 2 to view clients
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Add Client
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Can not access because you are not an admin
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  -  your client manager info
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Enter 1 to add clients
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Enter 2 to view clients
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Add Client
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  -  your client manager info
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Enter 1 to add clients
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Enter 2 to view clients
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Add Client
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Borrower: 
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Account number: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  -  your client manager info
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Enter 1 to add clients
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Enter 2 to view clients
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - View Client
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Amrutha, UserId=2020001, FirstName=Amrutha, PhoneNumber=+919480342924, LastName=K C, Password=Amrutha@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Anant, UserId=2020002, FirstName=Anant, PhoneNumber=+919480342924, LastName=Soni, Password=Anant@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Swathi, UserId=2020003, FirstName=Swathi, PhoneNumber=+919480342924, LastName=R, Password=Swathi@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Sachin, UserId=2020004, FirstName=Sachin, PhoneNumber=+919480342924, LastName=Thumkur, Password=Sachin@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Johnny, UserId=2020005, FirstName=Johnny, PhoneNumber=+919480342924, LastName=Done, Password=Johnny@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Shivam, UserId=2020006, First Name=Shivam, Last Name=Singh, Phone Number=+918547963210, Password=ShivamSingh187}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Akanksha12, UserId=2020007, First Name=Akanksha, Last Name=Singh, Phone Number=+918529637412, Password=AkanksahS34}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Amrutha, UserId=2020001, FirstName=Amrutha, PhoneNumber=+919480342924, LastName=K C, Password=Amrutha@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Anant, UserId=2020002, FirstName=Anant, PhoneNumber=+919480342924, LastName=Soni, Password=Anant@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Swathi, UserId=2020003, FirstName=Swathi, PhoneNumber=+919480342924, LastName=R, Password=Swathi@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Sachin, UserId=2020004, FirstName=Sachin, PhoneNumber=+919480342924, LastName=Thumkur, Password=Sachin@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Johnny, UserId=2020005, FirstName=Johnny, PhoneNumber=+919480342924, LastName=Done, Password=Johnny@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Shivam, UserId=2020006, First Name=Shivam, Last Name=Singh, Phone Number=+918547963210, Password=ShivamSingh187}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Akanksha12, UserId=2020007, First Name=Akanksha, Last Name=Singh, Phone Number=+918529637412, Password=AkanksahS34}
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - **********************Welcome to Loan Application Management System********************
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - You need to login to proceed further...
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter UserName: 
+[main] INFO  com.tyss.capgemini.lps.AdminValidation  - Enter password: 
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Yipee! You have Logged in Successfully..
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.UserChoice  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  -  your client manager info
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Enter 1 to add clients
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Enter 2 to view clients
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - View Client
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Amrutha, UserId=2020001, FirstName=Amrutha, PhoneNumber=+919480342924, LastName=K C, Password=Amrutha@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Anant, UserId=2020002, FirstName=Anant, PhoneNumber=+919480342924, LastName=Soni, Password=Anant@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Swathi, UserId=2020003, FirstName=Swathi, PhoneNumber=+919480342924, LastName=R, Password=Swathi@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Sachin, UserId=2020004, FirstName=Sachin, PhoneNumber=+919480342924, LastName=Thumkur, Password=Sachin@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Johnny, UserId=2020005, FirstName=Johnny, PhoneNumber=+919480342924, LastName=Done, Password=Johnny@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Shivam, UserId=2020006, First Name=Shivam, Last Name=Singh, Phone Number=+918547963210, Password=ShivamSingh187}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Akanksha, UserId=2020007, First Name=Akanksha, Last Name=Singh, Phone Number=+918529637412, Password=Akanksha34}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Amrutha, UserId=2020001, FirstName=Amrutha, PhoneNumber=+919480342924, LastName=K C, Password=Amrutha@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Anant, UserId=2020002, FirstName=Anant, PhoneNumber=+919480342924, LastName=Soni, Password=Anant@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Swathi, UserId=2020003, FirstName=Swathi, PhoneNumber=+919480342924, LastName=R, Password=Swathi@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Sachin, UserId=2020004, FirstName=Sachin, PhoneNumber=+919480342924, LastName=Thumkur, Password=Sachin@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Johnny, UserId=2020005, FirstName=Johnny, PhoneNumber=+919480342924, LastName=Done, Password=Johnny@123}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Shivam, UserId=2020006, First Name=Shivam, Last Name=Singh, Phone Number=+918547963210, Password=ShivamSingh187}
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - {UserName=Akanksha, UserId=2020007, First Name=Akanksha, Last Name=Singh, Phone Number=+918529637412, Password=Akanksha34}
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - ******************** Welcome to Loan Processing System ********************
+[main] WARN  com.tyss.capgemini.lps.controller.CustomerController  - First you need to Login then you will proceed furthur!!
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - 
+Enter Username : 
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - 
+Enter Password : 
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - Opps! invalid choice
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - 
+Enter Username : 
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - ******************** Welcome to Loan Processing System ********************
+[main] WARN  com.tyss.capgemini.lps.controller.CustomerController  - First you need to Login then you will proceed furthur!!
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - 
+Enter Username : 
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - 
+Enter Password : 
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - ******************** Welcome to Loan Processing System ********************
+[main] WARN  com.tyss.capgemini.lps.controller.CustomerController  - First you need to Login then you will proceed furthur!!
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - 
+Enter Username : 
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - 
+Enter Password : 
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - Opps! invalid choice
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - 
+Enter Username : 
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - 
+Enter Password : 
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - Opps! invalid choice
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - 
+Enter Username : 
+[main] INFO  com.tyss.capgemini.lps.controller.CustomerController  - 
+Enter Password : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - 
+Enter Username : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - 
+Enter Password : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Opps! invalid choice
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - 
+Enter Username : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - 
+Enter Password : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Successful
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - 
+Enter Username : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - 
+Enter Password : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Opps! invalid choice
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  -  your client manager info
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Enter 1 to add clients
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Enter 2 to view clients
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  -  your client manager info
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Enter 1 to add clients
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Enter 2 to view clients
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Add Client
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Borrower: 
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Account number: 
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Description: 
+[main] INFO  com.tyss.capgemini.lps.AdminOption2  - Amount: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  -  your client manager info
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to add clients
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to view clients
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - View Client
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOGGED OUT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : null
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - Bank Name : HDFC
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - Bank Name : HDFC
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - Bank Name : HDFC
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - Bank Name : HDFC
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - Bank Name : HDFC
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : Bank Name : HDFC
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : Loan Type: Home Loan
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : EMI : Rs.752/lakh*
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : Rate of Interest : 8.00%-8.50%
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - loan programs are : Loan Amount : Rs 5L - Rs 10Cr 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - Bank Name : HDFC
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - Loan Type: Home Loan
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - EMI : Rs.752/lakh*
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - Rate of Interest : 8.00%-8.50%
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - Loan Amount : Rs 5L - Rs 10Cr 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - Bank Name : HDFC
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - Loan Type: Home Loan
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - EMI : Rs.752/lakh*
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - Rate of Interest : 8.00%-8.50%
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - Loan Amount : Rs 5L - Rs 10Cr 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - bn
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - bn
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - abc
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - bn
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - ApplicationBean(applicationId=700, userName=RajuGuru, password=Raju@123, firstName=Raju, lastName=Guru, dateOfBirth=20-02-1988, mobileNumber=9638527412, emailId=raju@gmail.com, status=Approved, loanType=car loan)
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - ApplicationBean(applicationId=701, userName=ManjuRavi, password=Manju@123, firstName=Manju, lastName=Ravi, dateOfBirth=18-02-1988, mobileNumber=9638500002, emailId=manju@gmail.com, status=Rejected, loanType=gold loan)
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - ApplicationBean(applicationId=702, userName=RaviSharma, password=ravi@123, firstName=Ravi, lastName=Sharma, dateOfBirth=18-02-1987, mobileNumber=9638500202, emailId=ravi.s@gmail.com, status=Requested, loanType=furniture loan)
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - ApplicationBean(applicationId=701, userName=ManjuRavi, password=Manju@123, firstName=Manju, lastName=Ravi, dateOfBirth=18-02-1988, mobileNumber=9638500002, emailId=manju@gmail.com, status=Rejected, loanType=gold loan)
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - bn
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Addition Failed!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DELETE INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter bank name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Deletion Failed!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Invalid choice
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DELETE INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter bank name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Deletion Failed!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Addition Failed!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to NEWS MANAGEMENT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DELETE INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter bank name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Deletion Failed!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DELETE INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter bank name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Deletion Failed!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DELETE INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter bank name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Deletion Failed!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DELETE INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter bank name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Deletion Failed!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DELETE INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter bank name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Deletion Failed!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - LoanBean(bankName=HDFC Bank, loanType=Loan Type:Home Loan, emi=EMI Rs.752/lakh*, rateOfInterest=Rate of Interest 8.00%-8.50%, loanAmount=Loan Amount Rs 5L - Rs 10Cr )
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - LoanBean(bankName=HDFC Bank, loanType=Loan Type:Home Loan, emi=EMI Rs.752/lakh*, rateOfInterest=Rate of Interest 8.00%-8.50%, loanAmount=Loan Amount Rs 5L - Rs 10Cr )
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - LoanBean(bankName=HDFC Bank, loanType=Home Loan, emi=EMI Rs.752/lakh*, rateOfInterest=Rate of Interest 8.00%-8.50%, loanAmount=Loan Amount Rs 5L - Rs 10Cr )
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - fgh
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Type ACCEPT to approve loan
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Type REJECT to reject loan
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Type ACCEPT to approve loan
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Type REJECT to reject loan
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Loan accepted successfully
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - LoanBean(bankName=HDFC Bank, loanType=Home Loan, emi= Rs.752/lakh*, rateOfInterest=8.00%-8.50%, loanAmount= Rs 5L - Rs 10Cr )
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - LoanBean(bankName=HDFC Bank, loanType=Home Loan, emi= Rs.752/lakh*, rateOfInterest=8.00%-8.50%, loanAmount= Rs 5L - Rs 10Cr )
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Invalid Credentials!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Login Successful...
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Invalid Credentials!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Login Successful...
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Login Successful...
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Login Successful...
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Alphabets only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Username and password isn't matching
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Username and password isn't matching
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Sorry! cannot access because you are not from approval department
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Sorry! cannot access because you are not from approval department
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Sorry! cannot access because you are not from approval department
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Login Successful...
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Sorry! cannot access because you are not from approval department
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Valid Password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Sorry! cannot access because you are not from approval department
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Login Successful...
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Login Successful...
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN PROGRAMS
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - LoanBean(bankName=HDFC Bank, loanType=Home Loan, emi= Rs.752/lakh*, rateOfInterest=8.00%-8.50%, loanAmount= Rs 5L - Rs 10Cr )
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - ApplicationBean(applicationId=700, userName=RajuGuru, password=Raju@123, firstName=Raju, lastName=Guru, dateOfBirth=20-02-1988, mobileNumber=9638527412, emailId=raju@gmail.com, status=Approved, loanType=car loan)
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - ApplicationBean(applicationId=701, userName=ManjuRavi, password=Manju@123, firstName=Manju, lastName=Ravi, dateOfBirth=18-02-1988, mobileNumber=9638500002, emailId=manju@gmail.com, status=Rejected, loanType=gold loan)
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - ApplicationBean(applicationId=701, userName=ManjuRavi, password=Manju@123, firstName=Manju, lastName=Ravi, dateOfBirth=18-02-1988, mobileNumber=9638500002, emailId=manju@gmail.com, status=Rejected, loanType=gold loan)
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ACCEPT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to REJECT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOGGED OUT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ACCEPT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to REJECT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOGGED OUT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ACCEPT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to REJECT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ACCEPT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to REJECT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Invalid input
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ACCEPT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to REJECT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ACCEPT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to REJECT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Invalid input
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ACCEPT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to REJECT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ACCEPT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to REJECT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Loan accepted successfully
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ACCEPT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to REJECT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Loan accepted successfully
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ACCEPT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to REJECT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ACCEPT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to REJECT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - UPDATE STATUS OF REQUESTED APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter application ID
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter valid  status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter valid  status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter status
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ACCEPT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to REJECT
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Loan accepted successfully
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - ApplicationBean(applicationId=700, userName=RajuGuru, password=Raju@123, firstName=Raju, lastName=Guru, dateOfBirth=20-02-1988, mobileNumber=9638527412, emailId=raju@gmail.com, status=Approved, loanType=car loan)
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - ApplicationBean(applicationId=700, userName=RajuGuru, password=Raju@123, firstName=Raju, lastName=Guru, dateOfBirth=20-02-1988, mobileNumber=9638527412, emailId=raju@gmail.com, status=Approved, loanType=car loan)
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Sorry! cannot access because you are not an Admin
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Login Successful...
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter application Id : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter application Id : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter application Id : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Add Infomation
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Bank Name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Alphabets Only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Bank Name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Loan Type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Emi
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter proper EMI
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Emi
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter proper EMI
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Emi
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Rate of interest
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Proper Rate Of Intrest
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Rate of interest
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Proper Rate Of Intrest
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Rate of interest
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Proper Rate Of Intrest
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Rate of interest
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Proper Rate Of Intrest
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Rate of interest
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter loan amount
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Proper Loan Amount
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter loan amount
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Duplicate Info..!!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Add Infomation
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Bank Name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Alphabets Only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Bank Name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Loan Type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Emi
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter proper EMI
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Emi
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Rate of interest
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter loan amount
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information added Successfully...
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Add Infomation
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Bank Name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Loan Type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Emi
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Rate of interest
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter loan amount
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Proper Loan Amount
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter loan amount
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information added Successfully...
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DELETE INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter bank name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Deletion Failed!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter bank name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DELETE INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter bank name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Deleted Successfully...
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DELETE INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter bank name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Deletion Failed!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DELETE INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter bank name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Deleted Successfully...
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DASH BOARD
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN DETAILS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to DELETE INFORMATION: 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - DELETE INFORMATION
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter bank name
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Deletion Failed!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Application Id   :- 700
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - User Name      :- RajuGuru
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Frist Name  :- Raju
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Last Name  :- Guru
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Moblie Number     :- 9638527412
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Date Of Birth :- 20-02-1988
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Email Id :- raju@gmail.com
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Status  :- Approved
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Application Id   :- 701
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - User Name      :- ManjuRavi
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Frist Name  :- Manju
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Last Name  :- Ravi
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Moblie Number     :- 9638500002
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Date Of Birth :- 18-02-1988
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Email Id :- manju@gmail.com
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Status  :- Rejected
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Application Id   :- 702
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - User Name      :- RaviSharma
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Frist Name  :- Ravi
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Last Name  :- Sharma
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Moblie Number     :- 9638500202
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Date Of Birth :- 18-02-1987
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Email Id :- ravi.s@gmail.com
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Status  :- Requested
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Application Id   :- 701
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - User Name      :- ManjuRavi
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Frist Name  :- Manju
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Last Name  :- Ravi
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Moblie Number     :- 9638500002
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Date Of Birth :- 18-02-1988
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Email Id :- manju@gmail.com
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Status  :- Rejected
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ****************************************************************************************
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Application Id   :- 700
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - User Name      :- RajuGuru
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Frist Name  :- Raju
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Last Name  :- Guru
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Moblie Number     :- 9638527412
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Date Of Birth :- 20-02-1988
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Email Id :- raju@gmail.com
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Status  :- Approved
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ****************************************************************************************
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ****************************************************************************************
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Application Id   :- 701
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - User Name      :- ManjuRavi
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Frist Name  :- Manju
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Last Name  :- Ravi
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Moblie Number     :- 9638500002
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Date Of Birth :- 18-02-1988
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Email Id :- manju@gmail.com
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Status  :- Rejected
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ****************************************************************************************
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ****************************************************************************************
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Application Id   :- 702
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - User Name      :- RaviSharma
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Frist Name  :- Ravi
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Last Name  :- Sharma
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Moblie Number     :- 9638500202
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Date Of Birth :- 18-02-1987
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Email Id :- ravi.s@gmail.com
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Status  :- Requested
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ****************************************************************************************
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ****************************************************************************************
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Application Id   :- 703
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - User Name      :- SuryaRaju
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Frist Name  :- Surya
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Last Name  :- Raju
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Moblie Number     :- 9638500002
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Date Of Birth :- 18-05-1988
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Email Id :- raju.s@gmail.com
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Status  :- Requested
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ****************************************************************************************
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Application Id : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Number Only!!!
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Application Id : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Application does not exists for this Id 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Application Id : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Application does not exists for this Id 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Application Id : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Appication exists for this Id 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Clients added successfully
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Application Id : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Appication exists for this Id 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Clients added successfully
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Application Id : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Application does not exists for this Id 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Application Id : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Appication exists for this Id 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Clients added successfully
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 to DASH BOARD :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to CLIENT MANAGER :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - CLIENT MANAGER
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 1 to ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter 2 to VIEW CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ADD CLIENTS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Application Id : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Application does not exists for this Id 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter alphabets only
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.DAO.ApprovalTeamDAOImpl  - ApplicationBean(applicationId=700, userName=RajuGuru, password=Raju@123, firstName=Raju, lastName=Guru, dateOfBirth=20-02-1988, mobileNumber=9638527412, emailId=raju@gmail.com, status=Approved, loanType=car loan)
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 1 for LOAN PROGRAMS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 2 to VIEW LOAN APPLICATIONS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 3 to UPDATE STATUS :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Press 4 to LOG OUT :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - LOAN APPLICATIONS
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - enter loan type
+[main] INFO  com.tyss.capgemini.lps.controller.HomePage  - ====================================================
+[main] INFO  com.tyss.capgemini.lps.controller.HomePage  - ||        Welcome to Loan Processing System       ||
+[main] INFO  com.tyss.capgemini.lps.controller.HomePage  - ====================================================
+[main] INFO  com.tyss.capgemini.lps.controller.HomePage  - ----------------------------------------------------
+[main] INFO  com.tyss.capgemini.lps.controller.HomePage  - -                Choose the User type              -
+[main] INFO  com.tyss.capgemini.lps.controller.HomePage  - ----------------------------------------------------
+[main] INFO  com.tyss.capgemini.lps.controller.HomePage  - 	1 - Admin          : 
+[main] INFO  com.tyss.capgemini.lps.controller.HomePage  - 	2 - Customer       : 
+[main] INFO  com.tyss.capgemini.lps.controller.HomePage  - 	3 - Approval Team  : 
+[main] INFO  com.tyss.capgemini.lps.controller.HomePage  - ----------------------------------------------------
+[main] INFO  com.tyss.capgemini.lps.controller.HomePage  - Enter your choice    : 
+[main] INFO  com.tyss.capgemini.lps.controller.HomePage  - ------------------------------------------------
+[main] INFO  com.tyss.capgemini.lps.controller.HomePage  - ||          Welcome to Admin Section          ||
+[main] INFO  com.tyss.capgemini.lps.controller.HomePage  - ------------------------------------------------
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter username : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter password : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  -  Press 1 to DASH BOARD       : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  -  Press 2 to CLIENT MANAGER   : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  -  Press 3 to LOG OUT          : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ================================================
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ||                DASH BOARD                  ||
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ================================================
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ------------------------------------------------
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ||               LOAN DETAILS                 ||
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ------------------------------------------------
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  -  Enter 1 to Add Information       : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  -  Enter 2 to Delete Information    : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ------------------------------------------------
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - |              DELETE INFORMATION              |
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ------------------------------------------------
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter bank name :  
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Information Deleted Successfully...
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  -  Press 1 to DASH BOARD       : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  -  Press 2 to CLIENT MANAGER   : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  -  Press 3 to LOG OUT          : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ================================================
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ||                DASH BOARD                  ||
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ================================================
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ------------------------------------------------
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ||               LOAN DETAILS                 ||
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ------------------------------------------------
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  -  Enter 1 to Add Information       : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  -  Enter 2 to Delete Information    : 
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ------------------------------------------------
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - |               ADD INFORMATION                |
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - ------------------------------------------------
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Bank Name   :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Loan Type   :
+[main] INFO  com.tyss.capgemini.lps.controller.AdminController  - Enter Emi : 
