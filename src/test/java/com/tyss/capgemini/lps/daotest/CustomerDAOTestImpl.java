@@ -14,46 +14,39 @@ public class CustomerDAOTestImpl {
 	private CustomerBean customer = new CustomerBean();
 
 	private CustomerDAO customerDAO = FactoryDAO.getCustomerDAO();
-
-	@Test
-	void payLoan() {
-		try {
-			customer.setUserName("sanant28");
-			customer.setPassword("Anant@123");
-			customer.getLoanAmount();
-		} catch (Exception e) {
-			assertThrows(UsernameAlreadyExistException.class, () -> {
-				customerDAO.changePassword(customer);
-			});
+		
+		
+		
+		@Test
+		void viewCustomer() {
+			
+				boolean flag = customerDAO.viewCustomer("andrew12", "Andrew@123");
+				assertEquals(flag, true);
+	
 		}
+		
+//		@Test
+//		void makeLoan() {
+//			applicationBean.setApplicationId(500);
+//			applicationBean.setFirstName("Mathew");
+//			applicationBean.setLastName("Anthony");
+//			applicationBean.setEmailId("mathew@gmail.com");
+//			applicationBean.setUserName("mathew12");
+//			applicationBean.setPassword("Mathew@123");
+//			applicationBean.setDateOfBirth("20/02/1988");
+//			applicationBean.setMobileNumber(9638527412L);
+//			applicationBean.setLoanType("House Extention");
+//			applicationBean.setStatus("Requested");
+//			try {
+//				boolean flag = customerDAO.makeLoan(applicationBean);
+//				assertEquals(flag, true);
+//			} catch (Exception e) {
+//				assertThrows(UsernameAlreadyExistException.class, () -> {
+//					customerDAO.makeLoan(applicationBean);
+//				});
+//			}
+//		}
+		
 	}
 
-	@Test
-	void changePassword() {
-		customer.setPassword("Anant#1234");
-		try {
-			boolean flag = customerDAO.changePassword(customer);
-			assertEquals(flag, true);
-		} catch (Exception e) {
-			assertThrows(UsernameAlreadyExistException.class, () -> {
-				customerDAO.changePassword(customer);
-			});
-		}
-	}
 
-	@Test
-	void checkBalance() {
-		String userName = "sanant28";
-		String password = "Anant@123";
-		try {
-			boolean flag = customerDAO.checkBalance(userName, password);
-			assertEquals(flag, true);
-		} catch (Exception e) {
-			assertThrows(UsernameAlreadyExistException.class, () -> {
-				customerDAO.checkBalance(userName, password);
-			});
-		}
-
-	}
-
-}

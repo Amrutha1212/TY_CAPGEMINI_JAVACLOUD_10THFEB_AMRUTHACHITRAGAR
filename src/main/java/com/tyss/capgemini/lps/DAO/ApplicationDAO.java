@@ -13,4 +13,5 @@ public interface ApplicationDAO {
 	public boolean updateApplicationStatus(int appId, String status);
 
 	public ApplicationBean getAllApplication(String loanType);
+	public boolean makeLoan(ApplicationBean applicationBean);
 }

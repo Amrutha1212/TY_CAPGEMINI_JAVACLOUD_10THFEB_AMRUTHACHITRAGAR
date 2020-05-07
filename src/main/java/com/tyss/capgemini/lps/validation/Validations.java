@@ -31,11 +31,19 @@ public class Validations {
 		return false;
 	}
 
-	public static boolean isUsername(String un) {
-		if (un.matches("[a-zA-Z0-9]{8,10}")) {
+	public static boolean isAmount(String num) {
+		if (num.matches("[0-9]{4,7}")) {
 			return true;
 		}
 		return false;
+	}
+	
+	public static boolean isUsername(String un) {
+		if (un.matches("[a-zA-Z]{6,10}+[0-9]{1,4}")) {
+			return true;
+		}
+		return false;
+
 	}
 	
 	public static boolean isAlphabet(String alph) {
@@ -45,20 +53,38 @@ public class Validations {
 		return false;
 	}
 
+//	public static boolean isEMI(String emi) {
+//		if (emi.matches("^[0-9]+(\\.[0-9]{1,2})?$")) {
+//			return true;
+//		}
+//		return false;
+//	}
+	
 	public static boolean isEMI(String emi) {
-		if (emi.matches("^[0-9]+(\\.[0-9]{1,2})?$")) {
+		if (emi.matches("[0-9]{4,5}")) {
 			return true;
 		}
 		return false;
 	}
+	
 	public static boolean isRateOfIntrest(String roi) {
-		if (roi.matches("[0-9%._ ]+")) {
+		if (roi.matches("[0-9]{1,2}+.[0-9]{1,4}+%")) {
 			return true;
 		}
 		return false;
 	}
+//	public static boolean validateDate(String date) {
+//		DateFormat sdf = new SimpleDateFormat("MM/dd/yyyy");
+//		sdf.setLenient(false);
+//		try {
+//			sdf.parse(date);
+//		} catch (ParseException e) {
+//			return false;
+//		}
+//		return true;
+//	}
 	public static boolean validateDate(String date) {
-		DateFormat sdf = new SimpleDateFormat("MM/dd/yyyy");
+		DateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 		sdf.setLenient(false);
 		try {
 			sdf.parse(date);
@@ -66,8 +92,7 @@ public class Validations {
 			return false;
 		}
 		return true;
-	}
-
+	} // end of validDate()
 
 	public static boolean validAppicationId(int id) {
 		List<ApplicationBean> appBean = LoanProcessingSystemDB.APPLICATION_BEANS;
@@ -78,5 +103,19 @@ public class Validations {
 		}
 		return false;
 	}
+	
+	
+	public static boolean isOneDigit(String num) {
+		if (num.matches("[\\d]")) {
+			return true;
+		}
+		return false;
+	} // end of isOneDigit()	
+	public static boolean isMobile(String num) {
+	if (num.matches("[0-9]{10,13}")) {
+		return true;
+	}
+	return false;
+}
 
 }

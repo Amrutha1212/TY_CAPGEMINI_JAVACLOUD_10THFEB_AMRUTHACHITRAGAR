@@ -27,6 +27,16 @@ public class ApplicationDAOImpl implements ApplicationDAO {
 		List<ApplicationBean> applicationBean = LoanProcessingSystemDB.APPLICATION_BEANS;
 		return applicationBean;
 	}
+	
+	@Override
+	public boolean makeLoan(ApplicationBean bean) {
+		for (ApplicationBean applicationBean : LoanProcessingSystemDB.APPLICATION_BEANS) {
+			if(applicationBean.getApplicationId().equals(bean.getApplicationId()))
+				return false;
+		}
+//		LoanProcessingSystemDB.APPLICATION_BEANS.add(bean);
+		return true;
+	}
 
 	@Override
 	public boolean updateApplicationStatus(int appId, String status) {

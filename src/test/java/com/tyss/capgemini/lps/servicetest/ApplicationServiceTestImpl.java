@@ -1,4 +1,4 @@
-package com.tyss.capgemini.lps.daotest;
+package com.tyss.capgemini.lps.servicetest;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
@@ -13,28 +13,29 @@ import com.tyss.capgemini.lps.beans.ApplicationBean;
 import com.tyss.capgemini.lps.beans.CustomerBean;
 import com.tyss.capgemini.lps.exception.UsernameAlreadyExistException;
 import com.tyss.capgemini.lps.factory.FactoryDAO;
+import com.tyss.capgemini.lps.service.ApplicationServices;
 
-public class ApplicationDAOTestImpl {
+public class ApplicationServiceTestImpl {
 	private ApplicationBean application = new ApplicationBean();
 	private CustomerBean customer = new CustomerBean();
 
-	private ApplicationDAO applicationDao = FactoryDAO.getApplicationDAO();
+	private ApplicationServices applicationService = FactoryDAO.getApplicationServices();
 
 	@Test
 	void addApplicationTest() {
 		application.setApplicationId(702);
 		try {
-			boolean flag = applicationDao.addApplication(customer);
+			boolean flag = applicationService.addApplication(customer);
 			assertEquals(true, flag);
 		} catch (Exception e) {
-			applicationDao.addApplication(customer);
+			applicationService.addApplication(customer);
 		}
 		;
 	} // end of catch block
 
 	@Test
 	void getAllApplicationTest() {
-		List<ApplicationBean> allApplication = applicationDao.viewApplication();
+		List<ApplicationBean> allApplication = applicationService.viewApplication();
 		assertNotNull(allApplication);
 	}
 
@@ -43,10 +44,10 @@ public class ApplicationDAOTestImpl {
 		application.setApplicationId(702);
 		application.setStatus("Accept");
 		try {
-			boolean flag = applicationDao.updateApplicationStatus(702, "Accept");
+			boolean flag = applicationService.updateApplicationStatus(702, "Accept");
 			assertEquals(flag, true);
 		} catch (Exception e) {
-			applicationDao.updateApplicationStatus(702, "Accept");
+			applicationService.updateApplicationStatus(702, "Accept");
 		}
 	} // end of catch block
 	
@@ -62,7 +63,7 @@ public class ApplicationDAOTestImpl {
 		application.setMobileNumber(9638527412L);
 		application.setLoanType("House Extention");
 		application.setStatus("Requested");
-		boolean flag = applicationDao.makeLoan(application);
+		boolean flag = applicationService.makeLoan(application);
 		assertEquals(flag, true);
 		
 	}

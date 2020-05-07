@@ -1,6 +1,7 @@
 package com.tyss.capgemini.lps.service;
 
 import com.tyss.capgemini.lps.DAO.LoanDAO;
+import com.tyss.capgemini.lps.beans.ApplicationBean;
 import com.tyss.capgemini.lps.beans.LoanBean;
 import com.tyss.capgemini.lps.factory.FactoryDAO;
 import com.tyss.capgemini.lps.repository.LoanProgRepository;
@@ -23,9 +24,11 @@ public class LoanServicesImpl implements LoanServices {
 		return dao.getloanPrograms();
 	}
 
+
+
 	@Override
-	public boolean makeLoan() {
-		return dao.makeLoan();
+	public boolean updateLoanInformation(LoanBean loanBean) {
+		return dao.updateLoanInformation(loanBean);
 	}
 
 }

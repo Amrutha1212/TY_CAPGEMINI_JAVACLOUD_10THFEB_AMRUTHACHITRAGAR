@@ -9,6 +9,7 @@ import com.tyss.capgemini.lps.factory.FactoryDAO;
 
 public class ApplicationServicesImpl implements ApplicationServices {
 	private ApplicationDAO dao = FactoryDAO.getApplicationDAO();
+	
 
 	@Override
 	public boolean addApplication(CustomerBean customerBean) {
@@ -29,4 +30,8 @@ public class ApplicationServicesImpl implements ApplicationServices {
 	public ApplicationBean getAllApplication(String loanType) {
 		return dao.getAllApplication(loanType);
 	}
+	@Override
+	public boolean makeLoan(ApplicationBean applicationBean) {
+		return dao.makeLoan(applicationBean);
+	}// end of makeLoan()
 }

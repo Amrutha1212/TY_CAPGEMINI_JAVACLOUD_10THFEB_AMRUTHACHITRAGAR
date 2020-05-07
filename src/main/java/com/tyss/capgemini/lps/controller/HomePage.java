@@ -56,7 +56,7 @@ public class HomePage {
 						log.info("||        Welcome to Customer Section         ||");
 						log.info("------------------------------------------------");
 						log.info("Press 1 to logIn       :");
-						log.info("Press 2 to Register    :");
+//						log.info("Press 2 to Register    :");
 						log.info("Enter your choice      :");
 						int choice = scanner.nextInt();
 						switch (choice) {
@@ -69,9 +69,9 @@ public class HomePage {
 								customerController.logIn();
 							}
 							break;
-						case 2:
-							customerController.register();
-							break;
+//						case 2:
+//							customerController.register();
+//							break;
 						default:
 							log.info("Invalid choice!");
 							break;

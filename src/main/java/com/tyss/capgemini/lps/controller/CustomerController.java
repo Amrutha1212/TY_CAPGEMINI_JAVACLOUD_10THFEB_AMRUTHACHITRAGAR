@@ -5,9 +5,11 @@ import java.util.Scanner;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
+import com.tyss.capgemini.lps.beans.ApplicationBean;
 import com.tyss.capgemini.lps.beans.CustomerBean;
 import com.tyss.capgemini.lps.factory.FactoryDAO;
 import com.tyss.capgemini.lps.repository.LoanProcessingSystemDB;
+import com.tyss.capgemini.lps.service.ApplicationServices;
 import com.tyss.capgemini.lps.service.CustomerServices;
 import com.tyss.capgemini.lps.service.CustomerServicesImpl;
 import com.tyss.capgemini.lps.service.LoanServices;
@@ -58,169 +60,218 @@ public class CustomerController {
 		}
 	}
 
-	public void register() {
-		CustomerServices service = new CustomerServicesImpl();
-		CustomerBean customerBean = new CustomerBean();
-		while (true) {
-			log.info("Enter Customer Id :- ");
-			String customerId = scanner.nextLine();
-			if (Validations.isNumber(customerId)) {
-				customerBean.setCustomerId(Integer.parseInt(customerId));
+	public void makeLoan() {
+		CustomerServices service = FactoryDAO.getCustomerServices();
+		LoanServices loanService = FactoryDAO.getLoanServices();
+		ApplicationServices applicationService = FactoryDAO.getApplicationServices();
+		ApplicationBean applicationBean = new ApplicationBean();
+
+		while(true) {
+			log.info("Enter Application Id :- ");
+			String applicationId = scanner.nextLine();
+			if (Validations.isNumber(applicationId)) {
+				applicationBean.setApplicationId(Integer.parseInt(applicationId));
 				break;
 			} else {
+				log.info("Enter correct application id!");
 			}
-			log.info("Enter Number Only!!!");
 		}
-
-		while (true) {
-			log.info("Enter Username :");
+		while(true) {
+			log.info("Enter Username :- ");
 			String userName = scanner.nextLine();
 			if (Validations.isUsername(userName)) {
-				customerBean.setUserName(userName);
+				applicationBean.setUserName(userName);
 				break;
 			} else {
 				log.info("Enter proper Username!!");
 			}
-			log.info("Enter number and digits Only!");
+			log.info("Enter number and alphabets Only!");
 		}
 
-		while (true) {
-			log.info("Enter Password :");
+		while(true) {
+			log.info("Enter Password :- ");
 			String password = scanner.nextLine();
 			if (Validations.isPassword(password)) {
-				customerBean.setUserName(password);
+				applicationBean.setPassword(password);
 				break;
 			} else {
-				log.info("Enter proper Password!!");
+				log.info("Enter proper Password!");
 			}
-			log.info("Enter the combination of number, digits and special!");
+			log.info("Enter the combination of number, alphabets and special characters !");
 		}
 
-		while (true) {
-			log.info("Enter First Name :");
+		while(true) {
+			log.info("Enter First Name :- ");
 			String firstName = scanner.nextLine();
 			if (Validations.isAlphabet(firstName)) {
-				customerBean.setUserName(firstName);
+				applicationBean.setFirstName(firstName);
 				break;
 			} else {
-				log.info("Enter String value only!!");
+				log.info("Enter alphabets only!");
 			}
 		}
 
-		while (true) {
-			log.info("Enter Last Name :");
+		while(true) {
+			log.info("Enter Last Name :- ");
 			String lastName = scanner.nextLine();
 			if (Validations.isAlphabet(lastName)) {
-				customerBean.setUserName(lastName);
+				applicationBean.setLastName(lastName);
 				break;
 			} else {
-				log.info("Enter String value only!!");
+				log.info("Enter alphabets only!");
 			}
 		}
 
 		while (true) {
-			log.info("Enter Customer EmailId");
+			log.info("Enter Customer EmailId :- ");
 			String email = scanner.nextLine();
 			if (Validations.isEmail(email)) {
-				customerBean.setEmailId(email);
+				applicationBean.setEmailId(email);
 				break;
 			} else {
-				log.info("Email already exist");
+				log.info("Email already exist!");
 			}
 		}
 
-		while (true) {
-			log.info("Enter Mobile Number:");
+		while(true) {
+			log.info("Enter Mobile Number :- ");
 			String mobileNumber = scanner.nextLine();
-			if (Validations.isNumber(mobileNumber)) {
-				customerBean.setMobileNumber(Long.parseLong(mobileNumber));
+			if (Validations.isMobile(mobileNumber)) {
+				applicationBean.setMobileNumber(Long.parseLong(mobileNumber));
 				break;
 			} else {
-				log.info("Enter correct mobile number");
+				log.info("Enter correct mobile number!");
 			}
 		}
-		if (service.addCustomer(customerBean)) {
+		while(true) {
+			log.info("Enter Date of Birth :- ");
+			String dob = scanner.nextLine();
+			if (Validations.validateDate(dob)) {
+				applicationBean.setDateOfBirth(dob);
+				break;
+			} else {
+				log.info("Enter correct date of birth!");
+			}
+		}
+		while(true) {
+			log.info("Enter Account Number :- ");
+			String accNumber = scanner.nextLine();
+			if (Validations.isNumber(accNumber)) {
+				applicationBean.setMobileNumber(Long.parseLong(accNumber));
+				break;
+			} else {
+				log.info("Enter correct Account Number!");
+			}
+		}
+		while (true) {
+			log.info("Enter loan type  :- ");
+			log.info("Available loans  :- ");
+			log.info("1 - House Extention");
+			log.info("2 - House Construction");
+			log.info("3 - House Conversion");
+			log.info("4 - House Improvement");
+			log.info("Enter your choice :- ");
+			int choice = scanner.nextInt();		
+//			switch (choice) {
+//			case 1:
+//				loanType = "House Extention";
+//				break;
+//			case 2:
+//				loanType = "House Construction";
+//				break;
+//			case 3:
+//				loanType = "House Conversion";
+//				break;
+//			case 4:
+//				loanType = "House Improvement";
+//				break;
+//			default:
+//				log.info("Invalid option!");
+//				break;
+//			}
+//			applicationBean.setLoanType(loanType);
+			if (choice == 1) {
+				applicationBean.setLoanType("House Extention");
+				break;
+			} else if(choice == 2) {
+				applicationBean.setLoanType("House Construction");
+				break;
+			} else if(choice == 3) {
+				applicationBean.setLoanType("House Conversion");
+				break;
+			}else if(choice == 4) {
+				applicationBean.setLoanType("House Improvement");
+				break;
+			}
+			break;
+		}
+		while (true) {
+			String status = "Requested";
+			if (Validations.isAlphabet(status)) {
+				applicationBean.setStatus(status);
+				break;
+			}
+		}
+		if (applicationService.makeLoan(applicationBean)) {
+			LoanProcessingSystemDB.APPLICATION_BEANS.add(applicationBean);
 			log.info("Customer added successfully..");
 		} else {
 			log.info("Duplicate Id's");
 		}
-	}
+	}// end of makeLoan()
 
 	public void menuOption(String userName, String password) {
-		CustomerServices customerService = new CustomerServicesImpl();
-		LoanServices loan = new LoanServicesImpl();
-		int choice = 0;
+		CustomerServices customerService = FactoryDAO.getCustomerServices();
+		int choice1 = 0;
 		while (true) {
-			log.info("Press 1 to MAKE LOAN          :");
-			log.info("Press 2 to PAY LOAN           :");
-			log.info("Press 3 to CHECK BALANCE      :");
-			log.info("Press 4 to INBOX              :");
-			log.info("Press 5 to CHANGE OF PASSWORD :");
-			log.info("Press 6 to log-out            :");
-			log.info("Enter your choice             :");
-			String option = scanner.nextLine();
-			if (Validations.isNumber(option)) {
-				choice = Integer.parseInt(option);
+			log.info("Press 1 to MAKE LOAN           :");
+			log.info("Press 2 to VIEW LOAN PROGRAMS  :");
+			log.info("Press 3 to LOAN DETAILS        :");
+			log.info("Press 4 to log-out             :");
+			log.info("Enter your choice              :");
+			String option = scanner.nextLine();		
+			if (Validations.isOneDigit(option)) {
+				choice1 = Integer.parseInt(option);
 				break;
 			}
+			else {
+				log.info("Please enter only one digit!!");
+			}
 		}
-		switch (choice) {
+		switch (choice1) {
 		case 1:
 			log.info("------------------------------------------------");
 			log.info("||            Make Loan Section               ||");
 			log.info("------------------------------------------------");
-			loan.makeLoan();
+			makeLoan();
 			menuOption(userName, password);
 			break;
 		case 2:
 			log.info("------------------------------------------------");
-			log.info("||      Welcome to Loan Payment Section       ||");
+			log.info("||            View Loan Programs              ||");
 			log.info("------------------------------------------------");
-			customerService.payLoan(userName, password);
+//			customerService.loanDetails();
+			LoanServices loanServices1 = FactoryDAO.getLoanServices();
+			loanServices1.getLoanPrograms();
 			menuOption(userName, password);
 			break;
+
 		case 3:
 			log.info("------------------------------------------------");
-			log.info("||           Check Balance Section            ||");
+			log.info("||              Loan Details                  ||");
 			log.info("------------------------------------------------");
-			customerService.checkBalance(userName, password);
+			customerService.viewCustomer(userName, password);
 			menuOption(userName, password);
-			break;
+			break;	
+
 		case 4:
-			log.info("------------------------------------------------");
-			log.info("||              Welcome to INBOX              ||");
-			log.info("------------------------------------------------");
-			menuOption(userName, password);
-			break;
-		case 5:
-			log.info("------------------------------------------------");
-			log.info("||           Change Password option           ||");
-			log.info("------------------------------------------------");
-			CustomerBean bean = new CustomerBean();
-			while (true) {
-				log.info("Enter Password :");
-				String newPassword = scanner.nextLine();
-				if (Validations.isPassword(newPassword)) {
-					bean.setPassword(newPassword);
-					break;
-				} else {
-					log.info("Enter Proper Password!!!");
-				}
-			}
-			if (FactoryDAO.getCustomerDAO().changePassword(bean)) {
-				log.info("Password update Successfully...");
-			} else {
-				log.info("Something went wrong!!");
-			}
-			menuOption(userName, password);
-			break;
-		case 6:
 			log.info("You logged out successfully!");
 			HomePage.getStarted();
 			break;
+
 		default:
 			log.info("Invalid Choice");
 			break;
 		}
 	}
-}
+} // CustomerController}
